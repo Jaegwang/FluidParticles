@@ -59,7 +59,7 @@ particleFragmentShader =
 ].join("\n");
 
 
-function ParticleSystem() {
+function FluidParticles() {
 
     var _this = this;
 
